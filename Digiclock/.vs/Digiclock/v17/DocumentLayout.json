@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\3030897\\Desktop\\dlgkdud\\ziltusou\\ziltusyuu\\C#\\Visual Studio\\yutube\\Game\\Digiclock\\Digiclock\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22D1EAF4-4340-41D5-8B90-B4E9591B633D}|Digiclock\\Digiclock.csproj|c:\\users\\3030897\\desktop\\dlgkdud\\ziltusou\\ziltusyuu\\c#\\visual studio\\yutube\\game\\digiclock\\digiclock\\digiclock\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{22D1EAF4-4340-41D5-8B90-B4E9591B633D}|Digiclock\\Digiclock.csproj|solutionrelative:digiclock\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D1EAF4-4340-41D5-8B90-B4E9591B633D}|Digiclock\\Digiclock.csproj|c:\\users\\3030897\\desktop\\dlgkdud\\ziltusou\\ziltusyuu\\c#\\visual studio\\yutube\\game\\digiclock\\digiclock\\digiclock\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D1EAF4-4340-41D5-8B90-B4E9591B633D}|Digiclock\\Digiclock.csproj|solutionrelative:digiclock\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\3030897\\Desktop\\dlgkdud\\ziltusou\\ziltusyuu\\C#\\Visual Studio\\yutube\\Game\\Digiclock\\Digiclock\\Digiclock\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Digiclock\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\3030897\\Desktop\\dlgkdud\\ziltusou\\ziltusyuu\\C#\\Visual Studio\\yutube\\Game\\Digiclock\\Digiclock\\Digiclock\\MainWindow.xaml",
+              "RelativeToolTip": "Digiclock\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-16T00:37:33.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\3030897\\Desktop\\dlgkdud\\ziltusou\\ziltusyuu\\C#\\Visual Studio\\yutube\\Game\\Digiclock\\Digiclock\\Digiclock\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Digiclock\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\3030897\\Desktop\\dlgkdud\\ziltusou\\ziltusyuu\\C#\\Visual Studio\\yutube\\Game\\Digiclock\\Digiclock\\Digiclock\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Digiclock\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T00:37:32.963Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

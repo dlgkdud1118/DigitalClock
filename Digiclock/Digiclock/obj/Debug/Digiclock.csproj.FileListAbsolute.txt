@@ -1,0 +1,15 @@
+C:\Users\3030897\Desktop\dlgkdud\ziltusou\ziltusyuu\C#\Visual Studio\yutube\Game\Digiclock\Digiclock\Digiclock\obj\Debug\Digiclock.csproj.AssemblyReference.cache
+C:\Users\3030897\Desktop\dlgkdud\ziltusou\ziltusyuu\C#\Visual Studio\yutube\Game\Digiclock\Digiclock\Digiclock\obj\Debug\MainWindow.g.cs
+C:\Users\3030897\Desktop\dlgkdud\ziltusou\ziltusyuu\C#\Visual Studio\yutube\Game\Digiclock\Digiclock\Digiclock\obj\Debug\App.g.cs
+C:\Users\3030897\Desktop\dlgkdud\ziltusou\ziltusyuu\C#\Visual Studio\yutube\Game\Digiclock\Digiclock\Digiclock\obj\Debug\Digiclock_MarkupCompile.cache
+C:\Users\3030897\Desktop\dlgkdud\ziltusou\ziltusyuu\C#\Visual Studio\yutube\Game\Digiclock\Digiclock\Digiclock\obj\Debug\Digiclock_MarkupCompile.lref
+C:\Users\3030897\Desktop\dlgkdud\ziltusou\ziltusyuu\C#\Visual Studio\yutube\Game\Digiclock\Digiclock\Digiclock\bin\Debug\Digiclock.exe.config
+C:\Users\3030897\Desktop\dlgkdud\ziltusou\ziltusyuu\C#\Visual Studio\yutube\Game\Digiclock\Digiclock\Digiclock\bin\Debug\Digiclock.exe
+C:\Users\3030897\Desktop\dlgkdud\ziltusou\ziltusyuu\C#\Visual Studio\yutube\Game\Digiclock\Digiclock\Digiclock\bin\Debug\Digiclock.pdb
+C:\Users\3030897\Desktop\dlgkdud\ziltusou\ziltusyuu\C#\Visual Studio\yutube\Game\Digiclock\Digiclock\Digiclock\obj\Debug\MainWindow.baml
+C:\Users\3030897\Desktop\dlgkdud\ziltusou\ziltusyuu\C#\Visual Studio\yutube\Game\Digiclock\Digiclock\Digiclock\obj\Debug\Digiclock.g.resources
+C:\Users\3030897\Desktop\dlgkdud\ziltusou\ziltusyuu\C#\Visual Studio\yutube\Game\Digiclock\Digiclock\Digiclock\obj\Debug\Digiclock.Properties.Resources.resources
+C:\Users\3030897\Desktop\dlgkdud\ziltusou\ziltusyuu\C#\Visual Studio\yutube\Game\Digiclock\Digiclock\Digiclock\obj\Debug\Digiclock.csproj.GenerateResource.cache
+C:\Users\3030897\Desktop\dlgkdud\ziltusou\ziltusyuu\C#\Visual Studio\yutube\Game\Digiclock\Digiclock\Digiclock\obj\Debug\Digiclock.csproj.CoreCompileInputs.cache
+C:\Users\3030897\Desktop\dlgkdud\ziltusou\ziltusyuu\C#\Visual Studio\yutube\Game\Digiclock\Digiclock\Digiclock\obj\Debug\Digiclock.exe
+C:\Users\3030897\Desktop\dlgkdud\ziltusou\ziltusyuu\C#\Visual Studio\yutube\Game\Digiclock\Digiclock\Digiclock\obj\Debug\Digiclock.pdb
